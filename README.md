@@ -9,3 +9,6 @@ Returns the product of the two largest integers in an array (Max time used: 0.08
 
 #### 3. Fibonacci
 Returns the nth Fibonacci number (Max time used: 0.00/1.00, max memory used: 9629696/536870912.)
+
+#### 4. FiboLastDigit
+Returns the last digit of the nth fibonacci number (Max time used: 0.00/1.00, max memory used: 9588736/536870912.)
