@@ -21,3 +21,6 @@ Returns the lcm of any two numbers (Max time used: 0.05/1.00, max memory used: 9
 
 #### 7. Fibonacci Huge
 Return Fn mod m where Fn is the nth Fibonacci number. n can be as large as 10^18 and m is at most 10^3. (Max time used: 0.02/1.00, max memory used: 9912320/536870912.)
+
+#### 8. Last Digit of Sum of Fibonacci Numbers
+Return the last digit of sum of fibonacci numbers up to any n, where n can be as large as 10^18. (Max time used: 0.00/1.00, max memory used: 9609216/536870912.)
