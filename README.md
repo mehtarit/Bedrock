@@ -1,5 +1,5 @@
 # Bedrock
-My solutions implementations of algorithms for Coursera's Data Structures and Algorithms Specialization
+My implementation of algorithms for Coursera's Data Structures and Algorithms Specialization
 
 #### 1. A Plus B 
 Adds two numbers and returns the result (Max time used: 0.01/1.00, max memory used: 9580544/536870912)
@@ -24,3 +24,6 @@ Return Fn mod m where Fn is the nth Fibonacci number. n can be as large as 10^18
 
 #### 8. Last Digit of Sum of Fibonacci Numbers
 Return the last digit of sum of fibonacci numbers up to any n, where n can be as large as 10^18. (Max time used: 0.00/1.00, max memory used: 9609216/536870912.)
+
+#### 9. Last digit of the Partial Sum of Fibonacci Numbers
+Return the last digit of a partial sum of fibonacci numbers from m to n, where both can be as large as 10^18 (Max time used: 0.01/1.00, max memory used: 9609216/536870912.)
