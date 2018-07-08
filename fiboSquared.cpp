@@ -41,15 +41,9 @@ int main()
 
 	//edge cases
 
-	if(n == 0) 
-	{
-		cout << 0 << endl;
-		return 42;
-	}
-
 	if(n < 3)
 	{
-		cout << 1 << endl;
+		cout << n << endl;
 		return 42;
 	}
 
