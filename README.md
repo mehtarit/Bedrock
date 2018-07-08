@@ -1,5 +1,5 @@
 # Bedrock
-My solutions implementations of algorithms for Coursera's Data Structures and Algorithms Specialization
+My implementation of algorithms for Coursera's Data Structures and Algorithms Specialization
 
 #### 1. A Plus B 
 Adds two numbers and returns the result (Max time used: 0.01/1.00, max memory used: 9580544/536870912)
