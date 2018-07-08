@@ -27,3 +27,6 @@ Return the last digit of sum of fibonacci numbers up to any n, where n can be as
 
 #### 9. Last digit of the Partial Sum of Fibonacci Numbers
 Return the last digit of a partial sum of fibonacci numbers from m to n, where both can be as large as 10^18 (Max time used: 0.01/1.00, max memory used: 9609216/536870912.)
+
+#### 10. Last digit of the sum of squares of fibonacci numbers
+Returnt the last digit of the sum of squares of fibonacci number n, where n can be as large as 10^18 (Max time used: 0.00/1.00, max memory used: 9605120/536870912.)
